@@ -46,3 +46,6 @@ REFERENCES airports (airport_code)
 ➢ Индексы: PRIMARY KEY, btree (ticket_no)  
 ➢ Ограничения внешнего ключа: FOREIGN KEY (book_ref) REFERENCES bookings (book_ref)  
 ➢ Ссылки извне: TABLE "ticket_flights" FOREIGN KEY (ticket_no) REFERENCES tickets (ticket_no)
+</details>
+
+код запросов
