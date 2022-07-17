@@ -69,5 +69,5 @@ REFERENCES airports (airport_code)
 
 #### Cсылка на файл .sql со структурой запросов по поставленным задачам
 
-<div align="left"><img src="https://user-images.githubusercontent.com/108893866/179385582-25cdd117-2530-42e3-b7dc-1edd323f3e68.png" width="130" /></div>
+<div align="left"><img src="https://user-images.githubusercontent.com/108893866/179385582-25cdd117-2530-42e3-b7dc-1edd323f3e68.png" width="130" /></div> https://github.com/PetrukhinSergey/SQL_air-transportation_demo/blob/main/SQL_air-transportation_demo.sql
 
